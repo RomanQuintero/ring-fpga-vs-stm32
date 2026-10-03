@@ -1,0 +1,6 @@
+Live WinForms timer: 4801 physics steps
+Score: 6-6
+Paddle hits: 3/4
+Decisions: 2401/2401
+FPGA: FPGA COM999 UNAVAILABLE: sent=0, received=0, applied=0, latency=0.00ms, timeouts=0, invalid=0, connectionErrors=26, skipped=2400, lastError=El puerto 'COM999' no existe.
+STM32: STM32 COM4 CONNECTED: sent=2351, received=2351, applied=2327, latency=8.46ms, timeouts=0, invalid=0, connectionErrors=0, skipped=50, lastError=

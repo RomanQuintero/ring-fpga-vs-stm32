@@ -1,0 +1,19 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2026 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2026.1 (win64) Build 6511674 Tue Jun 16 11:02:23 MDT 2026
+| Date         : Sat Oct  3 08:40:31 2026
+| Command      : report_cdc -file build/cdc.txt
+| Design       : ring_fpga_top
+| Device       : 7a35t-csg324
+| Speed File   : -1  PRODUCTION 1.23 2018-06-13
+| Design State : Routed
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+CDC Report
+
+Severity  Source Clock      Destination Clock  CDC Type                 Exceptions  Endpoints  Safe  Unsafe  Unknown  No ASYNC_REG  
+--------  ----------------  -----------------  -----------------------  ----------  ---------  ----  ------  -------  ------------  
+Info      sys_clk           nn_clk             Safely Timed             None              527   527       0        0             0  
+Info      input port clock  sys_clk            No Common Primary Clock  False Path          1     1       0        0             0  
+Info      nn_clk            sys_clk            Safely Timed             None               15    15       0        0             0  
+

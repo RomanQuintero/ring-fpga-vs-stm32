@@ -1,0 +1,5 @@
+Live WinForms timer: 4801 physics steps
+Score: 12-4
+Paddle hits: 4/0
+Decisions: 2401/2401
+STM32 serial: COM4 TIMEOUT: sent=1289, received=0, applied=0, latency=0.00ms, timeouts=1288, invalid=0, connectionErrors=0, skipped=1111, lastError=No valid ACT within 16.67ms

@@ -1,0 +1,23 @@
+#-----------------------------------------------------------
+# xsim v2026.1 (64-bit)
+# SW Build 6511674 on Tue Jun 16 11:02:23 MDT 2026
+# IP Build 6504888 on Tue Jun 09 09:05:25 MDT 2026
+# SharedData Build 6501428 on Mon Jun 08 17:34:18 MDT 2026
+# Start of session at: Sat Oct  3 08:40:54 2026
+# Current directory  : fpga/build/work/sim_corrected
+# Command line       : xsim.exe -log uart_sim.log -mode tcl -source {xsim.dir/ring_uart_sim/xsim_script.tcl}
+# Log file           : fpga/build/work/sim_corrected/uart_sim.log
+# Journal file       : fpga/build/work/sim_corrected\xsim.jou
+# Total Virtual      : 71427 MB
+# Available Virtual  : 36330 MB
+#-----------------------------------------------------------
+source xsim.dir/ring_uart_sim/xsim_script.tcl
+# xsim {ring_uart_sim} -autoloadwcfg -runall
+Time resolution is 1 ps
+run -all
+PASS UART: 38 reference STATEs, normalized inputs/actions, baud tolerance, malformed/break recovery, busy rejection, CRLF, tick64, deadline
+$finish called at time : 423442285 ns : File "fpga/build/work/sim_corrected/tb_ring_fpga_top.sv" Line 98
+run: Time (s): cpu = 00:00:00 ; elapsed = 00:00:18 . Memory (MB): peak = 228.676 ; gain = 0.000
+exit
+INFO: xsimkernel Simulation Memory Usage: 21700 KB (Peak: 21700 KB), Simulation CPU Usage: 17530 ms
+INFO: [Common 17-206] Exiting xsim at Sat Oct  3 08:41:14 2026...

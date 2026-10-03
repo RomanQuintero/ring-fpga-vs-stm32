@@ -1,0 +1,5 @@
+Live WinForms timer: 4801 physics steps
+Score: 0-0
+Paddle hits: 12/12
+Decisions: 2401/2401
+STM32 serial: COM4 CONNECTED: sent=2361, received=2361, applied=2356, latency=8.37ms, timeouts=0, invalid=0, connectionErrors=0, skipped=40, lastError=

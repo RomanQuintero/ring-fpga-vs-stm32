@@ -1,0 +1,4 @@
+Live WinForms timer: 4801 physics steps
+Score: 2-1
+Paddle hits: 10/10
+Decisions: 2401/2401

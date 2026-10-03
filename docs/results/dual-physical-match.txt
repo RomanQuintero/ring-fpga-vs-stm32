@@ -1,0 +1,6 @@
+Live WinForms timer: 4800 physics steps
+Score: 0-1
+Paddle hits: 9/10
+Decisions: 2400/2400
+FPGA: FPGA COM5 CONNECTED: sent=2351, received=2351, applied=2326, latency=8.88ms, timeouts=0, invalid=0, connectionErrors=0, skipped=49, lastError=
+STM32: STM32 COM4 CONNECTED: sent=2346, received=2346, applied=2331, latency=8.32ms, timeouts=0, invalid=0, connectionErrors=0, skipped=54, lastError=

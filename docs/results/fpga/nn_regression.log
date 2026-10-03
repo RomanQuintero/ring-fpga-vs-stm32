@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# xsim v2026.1 (64-bit)
+# SW Build 6511674 on Tue Jun 16 11:02:23 MDT 2026
+# IP Build 6504888 on Tue Jun 09 09:05:25 MDT 2026
+# SharedData Build 6501428 on Mon Jun 08 17:34:18 MDT 2026
+# Start of session at: Sat Oct  3 08:40:46 2026
+# Current directory  : fpga/build/work/sim_corrected
+# Command line       : xsim.exe -log nn_regression.log -mode tcl -source {xsim.dir/pong_nn_sim/xsim_script.tcl}
+# Log file           : fpga/build/work/sim_corrected/nn_regression.log
+# Journal file       : fpga/build/work/sim_corrected\xsim.jou
+# Total Virtual      : 71427 MB
+# Available Virtual  : 33482 MB
+#-----------------------------------------------------------
+source xsim.dir/pong_nn_sim/xsim_script.tcl
+# xsim {pong_nn_sim} -autoloadwcfg -runall
+Time resolution is 1 ps
+run -all
+PASS: 30243 vectors; hidden, logits and actions match Python INT8 (100%)
+$finish called at time : 121574340 ns : File "fpga/build/work/sim_corrected/tb_pong_nn.sv" Line 48
+run: Time (s): cpu = 00:00:00 ; elapsed = 00:00:06 . Memory (MB): peak = 228.520 ; gain = 0.000
+exit
+INFO: [Common 17-206] Exiting xsim at Sat Oct  3 08:40:53 2026...

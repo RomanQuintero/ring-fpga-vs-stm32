@@ -1,0 +1,11 @@
+{
+  "real_test_vectors": 20000,
+  "corner_vectors": 243,
+  "random_vectors": 10000,
+  "total_vectors": 30243,
+  "requant_domain_checked": 27570,
+  "int8_accuracy": 0.8875,
+  "SH": 0.006802356722013926,
+  "accumulator1_bound": 27569,
+  "accumulator2_bound": 111159
+}

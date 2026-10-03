@@ -1,0 +1,192 @@
+[
+    {
+        "Case":  0,
+        "Reply":  "ACT,1,9223372036854775807,DOWN",
+        "LatencyMs":  26.9268
+    },
+    {
+        "Case":  1,
+        "Reply":  "ACT,1,638950000000000002,DOWN",
+        "LatencyMs":  12.297600000000001
+    },
+    {
+        "Case":  2,
+        "Reply":  "ACT,1,638950000000000004,DOWN",
+        "LatencyMs":  13.946200000000001
+    },
+    {
+        "Case":  3,
+        "Reply":  "ACT,1,638950000000000006,STAY",
+        "LatencyMs":  15.6141
+    },
+    {
+        "Case":  4,
+        "Reply":  "ACT,1,638950000000000008,DOWN",
+        "LatencyMs":  17.121100000000002
+    },
+    {
+        "Case":  5,
+        "Reply":  "ACT,1,638950000000000010,DOWN",
+        "LatencyMs":  20.054100000000002
+    },
+    {
+        "Case":  6,
+        "Reply":  "ACT,1,638950000000000012,UP",
+        "LatencyMs":  21.8977
+    },
+    {
+        "Case":  7,
+        "Reply":  "ACT,1,638950000000000014,UP",
+        "LatencyMs":  8.5493
+    },
+    {
+        "Case":  8,
+        "Reply":  "ACT,1,638950000000000016,STAY",
+        "LatencyMs":  10.0699
+    },
+    {
+        "Case":  9,
+        "Reply":  "ACT,1,638950000000000018,STAY",
+        "LatencyMs":  11.9541
+    },
+    {
+        "Case":  10,
+        "Reply":  "ACT,1,638950000000000020,DOWN",
+        "LatencyMs":  13.5997
+    },
+    {
+        "Case":  11,
+        "Reply":  "ACT,1,638950000000000022,DOWN",
+        "LatencyMs":  14.9678
+    },
+    {
+        "Case":  12,
+        "Reply":  "ACT,1,638950000000000024,UP",
+        "LatencyMs":  16.450400000000002
+    },
+    {
+        "Case":  13,
+        "Reply":  "ACT,1,638950000000000026,STAY",
+        "LatencyMs":  18.6046
+    },
+    {
+        "Case":  14,
+        "Reply":  "ACT,1,638950000000000028,DOWN",
+        "LatencyMs":  20.618000000000002
+    },
+    {
+        "Case":  15,
+        "Reply":  "ACT,1,638950000000000030,UP",
+        "LatencyMs":  22.5514
+    },
+    {
+        "Case":  16,
+        "Reply":  "ACT,1,638950000000000032,UP",
+        "LatencyMs":  24.120700000000003
+    },
+    {
+        "Case":  17,
+        "Reply":  "ACT,1,638950000000000034,STAY",
+        "LatencyMs":  10.0798
+    },
+    {
+        "Case":  18,
+        "Reply":  "ACT,1,638950000000000036,DOWN",
+        "LatencyMs":  12.1103
+    },
+    {
+        "Case":  19,
+        "Reply":  "ACT,1,638950000000000038,UP",
+        "LatencyMs":  14.0233
+    },
+    {
+        "Case":  20,
+        "Reply":  "ACT,1,638950000000000040,DOWN",
+        "LatencyMs":  15.595400000000001
+    },
+    {
+        "Case":  21,
+        "Reply":  "ACT,1,638950000000000042,UP",
+        "LatencyMs":  16.916
+    },
+    {
+        "Case":  22,
+        "Reply":  "ACT,1,638950000000000044,DOWN",
+        "LatencyMs":  18.262
+    },
+    {
+        "Case":  23,
+        "Reply":  "ACT,1,638950000000000046,UP",
+        "LatencyMs":  20.0018
+    },
+    {
+        "Case":  24,
+        "Reply":  "ACT,1,638950000000000048,UP",
+        "LatencyMs":  21.5536
+    },
+    {
+        "Case":  25,
+        "Reply":  "ACT,1,638950000000000050,UP",
+        "LatencyMs":  22.9753
+    },
+    {
+        "Case":  26,
+        "Reply":  "ACT,1,638950000000000052,DOWN",
+        "LatencyMs":  8.5526
+    },
+    {
+        "Case":  27,
+        "Reply":  "ACT,1,638950000000000054,DOWN",
+        "LatencyMs":  9.8119
+    },
+    {
+        "Case":  28,
+        "Reply":  "ACT,1,638950000000000056,DOWN",
+        "LatencyMs":  11.1392
+    },
+    {
+        "Case":  29,
+        "Reply":  "ACT,1,638950000000000058,UP",
+        "LatencyMs":  12.2317
+    },
+    {
+        "Case":  30,
+        "Reply":  "ACT,1,638950000000000060,DOWN",
+        "LatencyMs":  13.9063
+    },
+    {
+        "Case":  31,
+        "Reply":  "ACT,1,638950000000000062,UP",
+        "LatencyMs":  15.5525
+    },
+    {
+        "Case":  32,
+        "Reply":  "ACT,1,638950000000000064,UP",
+        "LatencyMs":  17.9081
+    },
+    {
+        "Case":  33,
+        "Reply":  "ACT,1,638950000000000066,UP",
+        "LatencyMs":  20.3766
+    },
+    {
+        "Case":  34,
+        "Reply":  "ACT,1,638950000000000068,UP",
+        "LatencyMs":  22.847900000000003
+    },
+    {
+        "Case":  35,
+        "Reply":  "ACT,1,638950000000000070,DOWN",
+        "LatencyMs":  9.333400000000001
+    },
+    {
+        "Case":  36,
+        "Reply":  "ACT,1,638950000000000072,STAY",
+        "LatencyMs":  10.8474
+    },
+    {
+        "Case":  37,
+        "Reply":  "ACT,1,638950000000000074,DOWN",
+        "LatencyMs":  12.3728
+    }
+]
